@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pod.Core\Pod.Core.csproj" />
+    <ProjectReference Include="..\Pod.Shared\Pod.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
